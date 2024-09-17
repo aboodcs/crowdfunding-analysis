@@ -1,4 +1,3 @@
-markdown
 # Crowdfunding Analysis
 
 ## Overview
