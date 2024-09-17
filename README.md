@@ -6,10 +6,10 @@ This project analyzes crowdfunding data to uncover trends and factors that influ
 
 ## Features
 
-- Data cleaning and preparation
-- Exploratory Data Analysis (EDA)
-- Predictive modeling to forecast campaign success
-- Visual insights into crowdfunding trends
+-Data Collection
+-Data Analysis
+-Visualization
+-Predictive Modeling
 
 ## Installation
 
