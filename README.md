@@ -6,10 +6,10 @@ This project analyzes crowdfunding data to uncover trends and factors that influ
 
 ## Features
 
--Data Collection
--Data Analysis
--Visualization
--Predictive Modeling
+- Data Collection
+- Data Analysis
+- Visualization
+- Predictive Modeling
 
 ## Installation
 
