@@ -32,19 +32,21 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-To perform analysis using this project, you need to run the following scripts. Each script is responsible for a different part of the analysis pipeline:
+Run the following scripts to perform analysis:
 
-### 1. Data Preprocessing
+- **Data Preprocessing:**
+  bash
+  python data_preprocessing.py
+  
 
-**Script**: `data_preprocessing.py`
+- **Exploratory Data Analysis:**
+  bash
+  python analysis.py
+  
 
-**Purpose**: This script prepares and cleans the raw crowdfunding data for further analysis. It handles tasks such as data cleaning, normalization, and feature extraction.
-
-**Run Command**:
-
-```bash
-python data_preprocessing.py
-
+- **Predictive Modeling:**
+  bash
+  python modeling.py
   
 
 ## Results
@@ -61,3 +63,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
