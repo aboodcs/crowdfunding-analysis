@@ -1,5 +1,3 @@
-بالطبع! إليك نسخة مبسطة ومحترفة في نفس الوقت لملف README الخاص بمشروعك "crowdfunding-analysis":
-
 markdown
 # Crowdfunding Analysis
 
