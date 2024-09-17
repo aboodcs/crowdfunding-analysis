@@ -30,25 +30,6 @@ To get started with the project, follow these steps:
    pip install -r requirements.txt
    
 
-## Usage
-
-Run the following scripts to perform analysis:
-
-- **Data Preprocessing:**
-  bash
-  python data_preprocessing.py
-  
-
-- **Exploratory Data Analysis:**
-  bash
-  python analysis.py
-  
-
-- **Predictive Modeling:**
-  bash
-  python modeling.py
-  
-
 ## Results
 
 The project generates:
