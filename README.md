@@ -16,17 +16,14 @@ This project analyzes crowdfunding data to uncover trends and factors that influ
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-   bash
    git clone https://github.com/aboodcs/crowdfunding-analysis.git
    
 
 2. Navigate to the project directory:
-   bash
    cd crowdfunding-analysis
    
 
 3. Install the necessary dependencies:
-   bash
    pip install -r requirements.txt
    
 
